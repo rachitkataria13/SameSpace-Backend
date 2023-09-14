@@ -1,0 +1,6 @@
+{
+    "name": "varchar(64)",
+    "phone": "varchar(15)",
+    "email": "varchar(128)",
+    "location": "varchar(64)"
+}
